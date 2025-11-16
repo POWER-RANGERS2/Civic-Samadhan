@@ -1,4 +1,4 @@
-# 🌍 Civic Resolve
+# 🌍 Civic Samadhan
 
 **CIVIC SAMADHAN** is a full-stack web application designed for **civic issue reporting, tracking, and resolution**. It bridges the gap between **citizens** and **administrators**, offering transparency, accountability, and data-driven governance.  
 
@@ -9,7 +9,7 @@ The project is divided into two main layers:
 ---
 ## 🎥 Demo & Resources
 
-- 🎬 Demo Video: [Watch Here](https://youtu.be/A14E4agoPgc?si=h_zh10WJmQEOZAqk)
+- 🎬 Demo Video: [Watch Here]
 - 🌐 Deployed Site: [Visit Here]()
 - 📊 Project PPT: [View Presentation]()
 
