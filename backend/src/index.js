@@ -3,7 +3,7 @@ import connectDB from "./db/index.js";
 import { app } from "./app.js";
 import cron from 'node-cron';
 import { generateAnalytics } from './utils/analytics.service.js';
-import { sendPendingReportNotifications } from "./utils/notification.service.js";
+
 
 // Load environment variables
 dotenv.config({
