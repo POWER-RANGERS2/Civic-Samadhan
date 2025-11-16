@@ -9,9 +9,9 @@ The project is divided into two main layers:
 ---
 ## 🎥 Demo & Resources
 
-- 🎬 Demo Video: [Watch Here]
-- 🌐 Deployed Site: [Visit Here]()
-- 📊 Project PPT: [View Presentation]()
+- 🎬 Demo Video: [CLICK HERE](https://youtu.be/nZsHT_FPJvA)
+- 🌐 Deployed Site: [Visit Here](https://civic-samadhan-p3jp.vercel.app/)
+
 
 ---
 
