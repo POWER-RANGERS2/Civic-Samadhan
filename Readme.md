@@ -20,8 +20,8 @@ The project is divided into two main layers:
 | Name                 |Role                  
 |--------------------- |-------------------------------------
 | **Sandeep Rai**      | Frontend Developer  
-| **Rohan Sharma**     | Backend Developer
-| **Bhardwaj Kartikey**| AI/ML Engineer        
+| **Rishabh Rajwaney**     | Backend Developer
+| **Lakshay Valecha**| AI/ML Engineer        
 
 ---
 
